@@ -1,10 +1,10 @@
 <p align="center"><a href="https://osu.ppy.sh/users/9322480"><img src="https://a.ppy.sh/9322480" alt="avatar"></a></p>
-<h1 align="center">Kuba (SonGokuPL/kiir0chii) skinhub</h1>
+<h1 align="center">Kuba - skinhub</h1>
 <h2> <p align="center">Other links:</p>
 <ul>
   <li><a href="https://osu.ppy.sh/users/9322480">osu!</a></li>
-  <li><a href="https://x.com/SonGokuPL_">Twitter/X</a></li>
-  <li><a href="https://www.twitch.tv/songokupl_">Twitch</a></li>
+  <li><a href="https://x.com/sngkpl">Twitter/X</a></li>
+  <li><a href="https://www.twitch.tv/awintersdayy">Twitch</a></li>
   <li><a href="https://bit.ly/GokuSkins">GDrive with all skins</a></li>
 </ul>
 </h2>
