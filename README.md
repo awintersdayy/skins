@@ -10,8 +10,8 @@
 </h2>
 
 
-<h2><a href="https://drive.google.com/file/d/1ks2n2HdG_Echc7o1voAXXpb2gfCfgvn-/view?usp=drive_link">- # Aristia (maliszewski)</a> - pretty much for everything <br>
-<a href="https://drive.google.com/file/d/1ks2n2HdG_Echc7o1voAXXpb2gfCfgvn-/view?usp=drive_link"><img src="https://i.imgur.com/UMW4ovw.jpg" alt="image"></a></h2>
+<h2><a href="https://drive.google.com/file/d/1j-La-6mmtgB2CD5joyU-T5uAbgG4vOyQ/view?usp=drive_link">- # Aristia (maliszewski)</a> - pretty much for everything <br>
+<a href="https://drive.google.com/file/d/1j-La-6mmtgB2CD5joyU-T5uAbgG4vOyQ/view?usp=drive_link"><img src="https://i.imgur.com/UMW4ovw.jpg" alt="image"></a></h2>
 
 <h2><a href="https://drive.google.com/file/d/1ABVKA5drEVFnuzu7R98mvjDll4CXjieO/view?usp=drive_link">- # criller (azerino)</a> - hd skin </br>
 <a href="https://drive.google.com/file/d/1ABVKA5drEVFnuzu7R98mvjDll4CXjieO/view?usp=drive_link""><img src="https://i.imgur.com/qI3BijR.jpg" alt="image"></a></h2>
