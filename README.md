@@ -10,8 +10,8 @@
 </h2>
 
 
-<h2><a href="https://drive.google.com/file/d/1Ot3Y3TPXDnrWbj38HiMXbm70OiSTmI-R/view?usp=drive_link">aristia</a><br>
-<a href="https://drive.google.com/file/d/1Ot3Y3TPXDnrWbj38HiMXbm70OiSTmI-R/view?usp=drive_link"><img src="https://i.imgur.com/UMW4ovw.jpg" alt="image"></a></h2>
+<h2><a href="https://drive.google.com/file/d/1hNvW_jJUyTJV4pXGRGj8GPRy3U2Lgk_4/view?usp=drive_link">aristia</a><br>
+<a href="https://drive.google.com/file/d/1hNvW_jJUyTJV4pXGRGj8GPRy3U2Lgk_4/view?usp=drive_link"><img src="https://i.imgur.com/UMW4ovw.jpg" alt="image"></a></h2>
 
 <h2><a href="https://drive.google.com/file/d/1Hc3oxYIMRO-rVrxCJeSqYtYKQemKJhoy/view?usp=drive_link">azerino</a> <a href="https://drive.google.com/file/d/196a1bxLF7omT3eDR5aJ3wuQvf4xnSt4x/view?usp=drive_link">(ar8)</a> </br>
 <a href="https://drive.google.com/file/d/1Hc3oxYIMRO-rVrxCJeSqYtYKQemKJhoy/view?usp=drive_link"><img src="https://i.imgur.com/qI3BijR.jpg" alt="image"></a></h2>
